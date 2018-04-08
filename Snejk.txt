@@ -1,0 +1,18 @@
+Ukupan broj pojedenih jabuka u prvom algoritmu iznosi: 100
+
+
+---------------------------------------------------------
+
+
+Ukupan broj pojedenih jabuka u drugom algoritmu iznosi: 27700
+
+
+---------------------------------------------------------
+
+
+Ukupan broj pojedenih jabuka u trecem algoritmu iznosi: 1725
+
+
+---------------------------------------------------------
+
+
